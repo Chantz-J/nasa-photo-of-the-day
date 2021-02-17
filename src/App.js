@@ -10,7 +10,7 @@ import Footer from './components/footer'
 import API_KEY from './keys/constants'
 
 const Root =  styled.div`
-  padding: 20em;
+  padding: 0;
   margin: 0;
   box-sizing: border-box;
 `
