@@ -17,7 +17,7 @@ const Root =  styled.div`
 
 export default function App() {
 
-  const [nasaInfo, setNasaInfo] = useState(null)
+  const [nasaInfo, setNasaInfo] = useState([])
   // const [picture, setPicture] = useState(null)
 
   useEffect(() => {
